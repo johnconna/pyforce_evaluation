@@ -1,0 +1,4 @@
+[submodule "deps/package-analysis"]
+	path = deps/package-analysis
+	url = https://github.com/ossf/package-analysis.git
+	branch = main
