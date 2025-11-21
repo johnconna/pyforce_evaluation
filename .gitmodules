@@ -1,7 +1,3 @@
-[submodule "deps/package-analysis"]
-	path = deps/package-analysis
-	url = https://github.com/ossf/package-analysis.git
-	branch = main
 [submodule "deps/bandit4mal"]
 	path = deps/bandit4mal
 	url = https://github.com/lyvd/bandit4mal.git
